@@ -1,7 +1,6 @@
 from setuptools import setup,find_packages
 
- 
- setup(
+setup(
     name = "WchSpider",
     version = "1.0.0",
     keywords = ("pip", "requests","aiohttp", "spider"), 
